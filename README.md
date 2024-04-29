@@ -20,8 +20,12 @@ The initial step involved setting up two separate S3 buckets: one for input file
 ### 2.) Setting up the Lambda Function for Document Language Translation
 Lastly, a Lambda function was created to facilitate the translation of documents stored within the input S3 bucket.
 
-### 3.) Testing
-<img src="https://i.imgur.com/dRAMlsH.png" height="80%" width="80%" alt="Code commit permissions"/>
+### 3.) Testing Before and After
+<img src="https://i.imgur.com/CcyWFq2.png" height="80%" width="80%" alt="Code commit permissions"/>
+<br />
+<br />
+
+<img src="https://i.imgur.com/XNdF5Vk.png" height="80%" width="80%" alt="Code commit permissions"/>
 <br />
 <br />
 
