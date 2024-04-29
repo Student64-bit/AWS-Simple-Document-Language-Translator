@@ -6,7 +6,7 @@ This project aims to provide a straightforward solution for translating language
 ## AWS Services Utilized
 
 - **Amazon Simple Storage Service (S3):** Utilized for storing documents requiring translation.
-- **AWS Lambda:** Used to translate documents within the S3 bucket upon invocation.
+- **AWS Lambda & AWS Translate:** Used to translate documents within the S3 bucket upon invocation.
 - **AWS IAM:** To leverage least privileges to the different Aws services used for best security practices.
 
 ## Architecture
